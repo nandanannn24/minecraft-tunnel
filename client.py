@@ -83,7 +83,7 @@ class TunnelClient:
 
 if __name__ == "__main__":
     # Ganti dengan URL Railway kamu
-    RAILWAY_URL = "your-app-name.railway.app"  # Ganti dengan URL Railway-mu
+    RAILWAY_URL = "minecraft-tunnel-production.up.railway.app"  # Ganti dengan URL Railway-mu
     
     client = TunnelClient(RAILWAY_URL)
     
